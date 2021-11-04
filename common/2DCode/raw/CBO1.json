@@ -32,6 +32,6 @@
         "DESCRIPTION": "INVALID: wrong CBOR structure"
     },
     "EXPECTEDRESULTS": {
-        "EXPECTEDDECODE": false
+        "EXPECTEDDECODE": true
     }
 }
