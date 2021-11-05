@@ -10,6 +10,6 @@
         "DESCRIPTION": "INVALID: Compression broken"
     },
     "EXPECTEDRESULTS": {
-        "EXPECTEDCOMPRESSION": false
+        "EXPECTEDCOMPRESSION": true
     }
 }
