@@ -2,18 +2,18 @@
     "JSON": {
         "ver": "1.2.1",
         "nam": {
-            "fn": "Musterfrau-Gößinger",
-            "fnt": "MUSTERFRAU<GOESSINGER",
-            "gn": "Gabriele",
-            "gnt": "GABRIELE"
+            "fn": "Carollo",
+            "fnt": "CAROLLO",
+            "gn": "Antonio",
+            "gnt": "ANTONIO"
         },
-        "dob": "1998-02-26",
+        "dob": "1969-08-01",
         "t": [
             {
                 "tg": "840539006",
                 "tt": "LP6464-4",
                 "nm": "Roche LightCycler qPCR",
-                "sc": "2021-02-20T12:34:56Z",
+                "sc": "2021-11-05T12:34:56Z",
                 "tr": "260415000",
                 "tc": "Testing center Vienna 1",
                 "co": "AT",
@@ -28,7 +28,7 @@
         "VERSION": 1,
         "SCHEMA": "1.0.0",
         "CERTIFICATE": "MIIBWDCB/6ADAgECAgQoOO4mMAoGCCqGSM49BAMCMBAxDjAMBgNVBAMMBUVDLU1lMB4XDTIxMDUwMzE4MDAwMFoXDTIxMDYwMjE4MDAwMFowEDEOMAwGA1UEAwwFRUMtTWUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASmmHPDcFBhynWMVX7tRPSc9a3FjQAgp0Utr2frSj9CccB1cvyIxhrox6SS6Myimy/wo2UQC6kOhjY99X2bvk/8o0cwRTAOBgNVHQ8BAf8EBAMCBaAwMwYDVR0lBCwwKgYMKwYBBAEAjjePZQEBBgwrBgEEAQCON49lAQIGDCsGAQQBAI43j2UBAzAKBggqhkjOPQQDAgNIADBFAiEA4UzWpCFaQesRaO3F1CmZg8PH+Y4L7WThECwIjEP/CqwCIFropZnITB9zP/zsNUDKkisQtD4D7WiRyyzO97kXWXO1",
-        "VALIDATIONCLOCK": "2021-05-03T18:00:00Z",
+        "VALIDATIONCLOCK": "2021-11-07T18:00:00Z",
         "DESCRIPTION": "INVALID: wrong CBOR structure"
     },
     "EXPECTEDRESULTS": {
