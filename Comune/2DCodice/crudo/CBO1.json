@@ -31,7 +31,6 @@
         "VALIDATIONCLOCK": "2021-05-03T18:00:00Z",
         "DESCRIPTION": "INVALID: wrong CBOR structure"
     },
-    "EXPECTEDRESULTS": {
-        "EXPECTEDDECODE": false
+    "RISULTATI ATTESI" : {true
     }
 }
