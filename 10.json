@@ -1,0 +1,49 @@
+{
+  "tag": 18,
+  "value": [
+    { "Map": [ [ 4, "NJpCsMLQco4=" ], [ 1, -7 ] ] },
+    {},
+    {
+      "Map": [
+        [ 4, 1683849600 ],
+        [ 6, 1630488674 ],
+        [ 1, "IT" ],
+        [
+          -260,
+          {
+            "Map": [
+              [
+                1,
+                {
+                  "v": [
+                    {
+                      "dn": 2,
+                      "ma": "ORG-100030215",
+                      "vp": "1119349007",
+                      "dt": "2021-08-31",
+                      "co": "IT",
+                      "ci": "01ITF1C112C12F38487494CCEB8B5318D9DD#9",
+                      "mp": "EU/1/20/1528",
+                      "is": "Ministero della Salute",
+                      "sd": 2,
+                      "tg": "840539006"
+                    }
+                  ],
+                  "nam": {
+                    "fnt": "ARMANIO",
+                    "fn": "ARMANIO",
+                    "gnt": "DANIELA",
+                    "gn": "DANIELA"
+                  },
+                  "ver": "1.0.0",
+                  "dob": "1971-11-03"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    "yXGMExc9w5U8MAFsL49vH6zYU56RlH1hTkUMlxzMDjy9d5+k0fTQceFeKk/5lO94VoWVKKTRErDH1I+CvKpqSg=="
+  ]
+}
