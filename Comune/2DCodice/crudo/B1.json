@@ -11,7 +11,7 @@
     },
     "EXPECTEDRESULTS": {
         "EXPECTEDUNPREFIX": true,
-        "EXPECTEDB45DECODE": false,
+        "EXPECTEDB45DECODE": true,
         "EXPECTEDPICTUREDECODE": true
     }
 }
