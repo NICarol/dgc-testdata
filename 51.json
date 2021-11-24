@@ -1,0 +1,31 @@
+{
+   "JSON": **JSON OBJECT**,
+   "CBOR": **CBOR (hex encoded)**,
+   "COSE": **COSE (hex encoded)**,
+   "COMPRESSED": **COMPRESSED (hex encoded)**,
+   "BASE45": **BASE45 Encoded compressed COSE**,
+   "PREFIX": **BASE45 Encoded compressed COSE with Prefix HC(x):**,
+   "2DCODE": **BASE64 Encoded PNG**,
+   "TESTCTX":{
+       "VERSION": **integer**,
+       "SCHEMA": **string (USED SCHEMA, semver)**,
+       "CERTIFICATE": **BASE64** ,
+       "VALIDATIONCLOCK": **Timestamp**, (https://docs.jsonata.org/date-time-functions ISO8601)
+       "DESCRIPTION": **string**,
+       "GATEWAY-ENV":**Array**
+   },
+   "EXPECTEDRESULTS": {
+       "EXPECTEDVALIDOBJECT": **boolean**,
+       "EXPECTEDSCHEMAVALIDATION": **boolean**,
+       "EXPECTEDENCODE": **boolean**,
+       "EXPECTEDDECODE": **boolean**,
+       "EXPECTEDVERIFY": **boolean**,
+       "EXPECTEDCOMPRESSION": **boolean**,
+       "EXPECTEDKEYUSAGE": **boolean**,
+       "EXPECTEDUNPREFIX": **boolean**,
+       "EXPECTEDVALIDJSON": **boolean**,
+       "EXPECTEDB45DECODE": **boolean**,
+       "EXPECTEDPICTUREDECODE": **boolean**,
+       "EXPECTEDEXPIRATIONCHECK": **boolean**,
+    }
+}
