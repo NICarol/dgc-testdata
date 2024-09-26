@@ -1,0 +1,48 @@
+{
+  "tag": 18,
+  "value": [
+    { "Map": [ [ 4, "zrMytIH40Rk=" ], [ 1, -7 ] ] },
+    {},
+    {
+      "Map": [
+        [ 4, 1699747200 ],
+        [ 6, 1637689261 ],
+        [ 1, "IT" ],
+        [
+          -260,
+          {
+            "Map": [
+              [
+                1,
+                {
+                  "t": [
+                    {
+                      "sc": "2021-11-23T18:30:00+01:00",
+                      "ma": "2103",
+                      "tt": "LP217198-3",
+                      "co": "IT",
+                      "tc": "DR. TOBIA ROBERTO",
+                      "ci": "01ITC744989B27BE4362A7B3148C766E2A05#4",
+                      "is": "Ministero della Salute",
+                      "tg": "840539006",
+                      "tr": "260415000"
+                    }
+                  ],
+                  "nam": {
+                    "fnt": "CARACAUSI",
+                    "fn": "CARACAUSI",
+                    "gnt": "ANTONINO",
+                    "gn": "ANTONINO"
+                  },
+                  "ver": "1.3.0",
+                  "dob": "1969-09-08"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    "pZ7n6KLj6W1SZvoPjIp6MopfnS69x1pDiwZ7M7F3APdrXPnofX4NPOk+MZEGfiaLrH7FWp0aShxx7VlZDJcpDg=="
+  ]
+}
